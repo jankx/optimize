@@ -1,0 +1,19 @@
+{
+    "name": "jankx/optimize",
+    "description": "Optimize Jankx theme for Google PageSpeed and speed up website",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\Optimize\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
